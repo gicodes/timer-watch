@@ -1,6 +1,9 @@
-Timer-watch 
-is a simple application model that runs as a timer or watch, or both.
-Receives user input (seconds) as a "props or args" and displays a countdown user-interface.
-Can be modified to render a better user experience or integrated on advanced APIs.
-Was build with Javascript, and helper libraries such as font-awesome and SVG.
-Version was released to Github for more application insight and collaboration.
+# Timer-watch 
+
+- is a simple application model that runs as a timer, or watch, or both.
+- takes in a number > 0, as 'user input' and it runs a countdown on the UI.
+- displays *time remaining* with an animated clock-wise movement that stops at 0.
+- was built with Vanilla Javascript, HTML, 'fa-' CSS, and helper libraries such SVG.
+- Can be modified to deliver a better user experience && or integrated on advanced APIs.
+
+# Designed & Developed by Gideon, I
